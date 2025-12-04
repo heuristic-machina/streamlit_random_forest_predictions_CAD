@@ -2,6 +2,7 @@ import streamlit as st
 
 #container
 st.title('Heart Data Dictionary 📖')
+st.image('imgs/ecg.png')
 container = st.container(border=True)
 container.write('1. age: Age of the patient')
 container.markdown("""
