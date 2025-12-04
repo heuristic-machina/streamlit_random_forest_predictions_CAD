@@ -8,6 +8,6 @@ st.title('Coronary Artery Disease Dataset Explorer')
 st.subheader('Welcome the the Heart dataset explorer app')
 st.write("""
     This app provides an interactive platform to explore the famous Heart dataset.
-         You can visualize the distribution of data, explore relationships between features, and even make predictions on new data!
+         You can visualize the distribution of data in Data-Overview and Dictionary pages, explore relationships between features on Exploratory-Analysis page, and even make your own confusion matrix model on Make-Your-Own-Matrix page!  When your done playing around check out the Prediction-Insights for more the results performed on this dataset.
 """)
 st.image('imgs/heart.jpg', caption="The Heart")
